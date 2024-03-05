@@ -126,16 +126,10 @@ function getSheetData()  {
 
 ****************************************************
 
--- Watch video regarding- how to pull data from google sheet & push data to google sheet.
-
-My push link: https://script.google.com/macros/s/AKfycbwHtgH_0FD3UuZARSlo5g_zDrI4BHWRdEJCSwveG3dGD16vDwFeIKV4XxdzeDwCDqWq/exec
-My pull link: https://script.google.com/macros/s/AKfycbwN_ydF5J3_ddKOCRJ4h30nMf72B-x8Chmij1ZRUn6ZBC0CqdwiBnp_8KujJLnFxjCZ/exec
 The javascript code for push/send data is written in the "Submit.html" file. Check js code their.
 You can create a notepad app with this source code, also you dont need a database to store your notes.
-For any help contact me: +918249587552(call/whatsapp).
-email: subhransuchoudhury00@gmail.com
+For any help contact me: +91 9014137101(call/whatsapp).
+email: vaddebabu2002@gmail.com
 
 
 
-
-$ Sayonara
